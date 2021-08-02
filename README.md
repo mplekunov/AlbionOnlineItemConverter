@@ -1,5 +1,4 @@
 # Albion Online Item Converter
-
 ## Features
 -- Filter Item properties from source Json.
 -- Writes filtered properties into txt.
